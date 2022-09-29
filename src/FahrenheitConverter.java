@@ -1,3 +1,13 @@
+/*
+* FahrenheitConverter
+*  Programmer: Albert Duenas
+   Date: 9-27-22
+   Version: 1.3
+   Description: This program converts Fahrenheit to Celsius. It gets the users input and depending on the input it will return false or proceed as normal. It uses a calculation to determine the answer*/
+
+
+
+
 import java.util.Scanner;
 
 public class FahrenheitConverter {
